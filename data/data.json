@@ -40,5 +40,48 @@
       "imgSrc": "./img/category8.jpeg",
       "imgAlt": "category8"
     }
+  ],
+
+  "productsByCategories": [
+    {
+      "title": "Top bán chạy",
+      "bannerImg": "none",
+      "bannerImgAlt": "none banner"
+    },
+    {
+      "title": "Sản phẩm OCOP",
+      "bannerImg": "none",
+      "bannerImgAlt": "none banner"
+    },
+    {
+      "title": "Thương hiệu quốc gia",
+      "bannerImg": "./img/productionByCatogory1.jpeg",
+      "bannerImgAlt": "Thương hiệu quốc gia banner"
+    },
+    {
+      "title": "Đặc sản vùng miền",
+      "bannerImg": "./img/productionByCatogory2.jpeg",
+      "bannerImgAlt": "Đặc sản vùng miền banner"
+    },
+    {
+      "title": "Nông nghiệp",
+      "bannerImg": "./img/productionByCatogory2.jpeg",
+      "bannerImgAlt": "Nông nghiệp banner"
+    },
+    {
+      "title": "Ngư nghiệp - Thủy hải sản",
+      "bannerImg": "./img/productionByCatogory3.jpeg",
+      "bannerImgAlt": "Ngư nghiệp - Thủy hải sản banner"
+    },
+    {
+      "title": "Lâm nghiệp",
+      "bannerImg": "./img/productionByCatogory4.jpeg",
+      "bannerImgAlt": "Lâm nghiệp banner"
+    },
+    {
+      "title": "Thủ công mỹ nghệ",
+      "bannerImg": "./img/productionByCatogory1.jpeg",
+      "bannerImgAlt": "Thủ công mỹ nghệ banner"
+    }
   ]
 }

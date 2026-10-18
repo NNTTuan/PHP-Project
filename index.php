@@ -70,7 +70,6 @@ if (file_exists($dataFile)) {
 
             <div class="slider-wrapper-container">
                 <button class="slide-btn prev-btn">&#10094;</button>
-
                 <div class="category-slider-panel" id="categorySlider">
                     <?php if (!empty($data['categories'])): ?>
                         <?php foreach ($data['categories'] as $category): ?>
@@ -88,8 +87,19 @@ if (file_exists($dataFile)) {
                 <button class="slide-btn next-btn">&#10095;</button>
             </div>
         </section>
-        <section class="production">
-            
+        <section class="productions">
+            <?php if (!empty($data['productionByCategories'])): ?>
+                <?php foreach ($data['productionByCategories'] as $productionByCategory): ?>
+                    <?php if ($productionByCategory['title'] == "none"): ?>
+                        <h2><?php echo htmlspecialchars($productionByCategory['title']); ?></h2>
+                    <?php else: ?>
+                        <h2><?php echo htmlspecialchars($productionByCategory['title']); ?></h2>
+                        <img src="<?php echo htmlspecialchars($category['bannerImg']); ?>" alt="<?php echo htmlspecialchars($category['bannerImgAlt']); ?>">
+                    <?php endif ?>
+                <?php endforeach; ?>
+            <?php else: ?>
+                <p class="text-slate-400">Chưa có sản phẩm theo danh mục nào được thêm.</p>
+            <?php endif; ?>
         </section>
     </main>
     <footer></footer>
