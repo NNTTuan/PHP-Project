@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "title": "Tất cả sản phẩm",
+      "imgSrc": "./img/category1.png",
+      "imgAlt": "category1"
+    },
+    {
+      "title": "Sản phẩm OCOP",
+      "imgSrc": "./img/category2.png",
+      "imgAlt": "category2"
+    },
+    {
+      "title": "Thương hiệu quốc gia",
+      "imgSrc": "./img/category3.jpeg",
+      "imgAlt": "category3"
+    },
+    {
+      "title": "Đặc sản vùng miền",
+      "imgSrc": "./img/category4.jpeg",
+      "imgAlt": "category4"
+    },
+    {
+      "title": "Nông nghiệp",
+      "imgSrc": "./img/category5.jpeg",
+      "imgAlt": "category5"
+    },
+    {
+      "title": "Ngư nghiệp - Thủy hải sản",
+      "imgSrc": "./img/category6.jpeg",
+      "imgAlt": "category6"
+    },
+    {
+      "title": "Lâm nghiệp",
+      "imgSrc": "./img/category7.jpeg",
+      "imgAlt": "category7"
+    },
+    {
+      "title": "Thủ công mĩ nghệ",
+      "imgSrc": "./img/category8.jpeg",
+      "imgAlt": "category8"
+    }
+  ]
+}
