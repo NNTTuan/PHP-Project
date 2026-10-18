@@ -61,36 +61,37 @@ if (file_exists($dataFile)) {
                     <a href="#"><img src="./img/shopping-cart.png" alt="cart-icon">Giỏ hàng</a>
                 </div>
             </div>
+
         </div>
-            <script src="script.js"></script>
     </header>
     <main>
-        <section class="category-panel">
-            <h2>Danh mục</h2>
+    <section class="category-panel">
+        <h2>Danh mục</h2>
 
-            <div class="slider-wrapper-container">
-                <button class="slide-btn prev-btn">&#10094;</button>
-
-                <div class="category-slider-panel" id="categorySlider">
-                    <?php if (!empty($data['categories'])): ?>
-                        <?php foreach ($data['categories'] as $category): ?>
-                            <div class="category-card">
-                                <div class="card-bg">
-                                    <img src="<?php echo htmlspecialchars($category['imgSrc']); ?>" alt="<?php echo htmlspecialchars($category['title']); ?>">
-                                </div>
-                                <p class="text-xl font-semibold text-white mb-2"><?php echo htmlspecialchars($category['title']); ?></p>
+        <div class="slider-wrapper-container">
+            <button class="slide-btn prev-btn">&#10094;</button>
+            
+            <div class="category-slider-panel" id="categorySlider">
+                <?php if (!empty($data['categories'])): ?>
+                    <?php foreach ($data['categories'] as $category): ?>
+                        <div class="category-card">
+                            <div class="card-bg">
+                                <img src="<?php echo htmlspecialchars($category['imgSrc']); ?>" alt="<?php echo htmlspecialchars($category['title']); ?>">
                             </div>
-                        <?php endforeach; ?>
-                    <?php else: ?>
-                        <p class="text-slate-400">Chưa có danh mục nào được thêm.</p>
-                    <?php endif; ?>
-                </div>
-
-                <button class="slide-btn next-btn">&#10095;</button>
+                            <p class="text-xl font-semibold text-white mb-2"><?php echo htmlspecialchars($category['title']); ?></p>
+                        </div>
+                    <?php endforeach; ?>
+                <?php else: ?>
+                    <p class="text-slate-400">Chưa có danh mục nào được thêm.</p>
+                <?php endif; ?>
             </div>
-        </section>
-    </main>
+            
+            <button class="slide-btn next-btn">&#10095;</button>
+        </div>
+    </section>
+</main>
     <footer></footer>
+    <script src="./js/script.js"></script>
 </body>
 
 </html>
