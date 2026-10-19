@@ -1,0 +1,457 @@
+{
+  "categoryName": "Lâm nghiệp",
+  "bannerImg": "./img/productionByCatogory4.jpeg",
+  "bannerImgAlt": "Lâm nghiệp banner",
+  "products": [
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Măng khô rừng tự nhiên",
+      "productName": "Măng khô rừng tự nhiên",
+      "productCostDefault": "160.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "144.000đ",
+      "evaluateAmount": "71"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nấm hương rừng sấy khô",
+      "productName": "Nấm hương rừng sấy khô",
+      "productCostDefault": "220.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "85"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Hạt mắc ca nguyên vỏ",
+      "productName": "Hạt mắc ca nguyên vỏ",
+      "productCostDefault": "190.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "161.500đ",
+      "evaluateAmount": "190"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Hạt óc chó Tân Cương",
+      "productName": "Hạt óc chó Tân Cương",
+      "productCostDefault": "210.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Chuối hột rừng ngâm rượu",
+      "productName": "Chuối hột rừng ngâm rượu",
+      "productCostDefault": "90.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "85.500đ",
+      "evaluateAmount": "45"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Tinh bột nghệ vàng nguyên chất",
+      "productName": "Tinh bột nghệ vàng nguyên chất",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "178"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mật ong hoa bạc hà Hà Giang",
+      "productName": "Mật ong hoa bạc hà Hà Giang",
+      "productCostDefault": "300.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "270.000đ",
+      "evaluateAmount": "230"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nấm mèo (mộc nhĩ) rừng",
+      "productName": "Nấm mèo (mộc nhĩ) rừng",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "60"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Táo mèo sấy khô Tây Bắc",
+      "productName": "Táo mèo sấy khô Tây Bắc",
+      "productCostDefault": "80.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "72.000đ",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Trà giảo cổ lam nguyên chất",
+      "productName": "Trà giảo cổ lam nguyên chất",
+      "productCostDefault": "110.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Măng lưỡi lợn rừng khô",
+      "productName": "Măng lưỡi lợn rừng khô",
+      "productCostDefault": "180.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "158.400đ",
+      "evaluateAmount": "64"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nấm lim xanh rừng tự nhiên",
+      "productName": "Nấm lim xanh rừng tự nhiên",
+      "productCostDefault": "1.200.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "35"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Tam thất bắc nguyên củ",
+      "productName": "Tam thất bắc nguyên củ",
+      "productCostDefault": "1.500.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "1.275.000đ",
+      "evaluateAmount": "42"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hà thủ ô đỏ chế đậu đen",
+      "productName": "Hà thủ ô đỏ chế đậu đen",
+      "productCostDefault": "220.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "110"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Đảng sâm (sâm dây) rừng khô",
+      "productName": "Đảng sâm (sâm dây) rừng khô",
+      "productCostDefault": "280.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "252.000đ",
+      "evaluateAmount": "78"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Ba kích tím rừng nguyên củ",
+      "productName": "Ba kích tím rừng nguyên củ",
+      "productCostDefault": "350.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Đinh lăng sẻ lâu năm ngâm rượu",
+      "productName": "Đinh lăng sẻ lâu năm ngâm rượu",
+      "productCostDefault": "320.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "294.400đ",
+      "evaluateAmount": "55"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Củ sâm cau rừng tươi/khô",
+      "productName": "Củ sâm cau rừng khô",
+      "productCostDefault": "240.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "68"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Hạt dẻ rừng sấy bơ",
+      "productName": "Hạt dẻ rừng sấy bơ",
+      "productCostDefault": "95.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "85.500đ",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Mắc khén hạt khô thơm",
+      "productName": "Mắc khén hạt khô thơm",
+      "productCostDefault": "100.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "160"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Hạt dổi xếp hạng loại đặc biệt",
+      "productName": "Hạt dổi xếp hạng loại đặc biệt",
+      "productCostDefault": "380.000đ",
+      "salePercent": "20%",
+      "ProductiSaleCost": "304.000đ",
+      "evaluateAmount": "125"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nấm mối đen rừng trồng hữu cơ",
+      "productName": "Nấm mối đen rừng trồng hữu cơ",
+      "productCostDefault": "150.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "84"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mật ong hoa cà phê nguyên chất",
+      "productName": "Mật ong hoa cà phê nguyên chất",
+      "productCostDefault": "180.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "153.000đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Phấn hoa nguyên chất thiên nhiên",
+      "productName": "Phấn hoa nguyên chất thiên nhiên",
+      "productCostDefault": "200.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Sữa ong chúa tươi nguyên chất",
+      "productName": "Sữa ong chúa tươi nguyên chất",
+      "productCostDefault": "350.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "315.000đ",
+      "evaluateAmount": "175"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Keo ong xanh nguyên chất",
+      "productName": "Keo ong xanh nguyên chất",
+      "productCostDefault": "400.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "62"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Trà hoa cúc chi rừng sấy lạnh",
+      "productName": "Trà hoa cúc chi rừng sấy lạnh",
+      "productCostDefault": "130.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "114.400đ",
+      "evaluateAmount": "115"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Trà khổ qua rừng sấy khô",
+      "productName": "Trà khổ qua rừng sấy khô",
+      "productCostDefault": "90.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "89"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Củ bình vôi rừng ngâm thuốc",
+      "productName": "Củ bình vôi rừng ngâm thuốc",
+      "productCostDefault": "160.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "152.000đ",
+      "evaluateAmount": "40"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Vỏ quế khô Quế Phong",
+      "productName": "Vỏ quế khô Quế Phong",
+      "productCostDefault": "70.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "73"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Tinh dầu quế nguyên chất",
+      "productName": "Tinh dầu quế nguyên chất",
+      "productCostDefault": "120.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "108.000đ",
+      "evaluateAmount": "130"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tinh dầu sả chanh nguyên chất",
+      "productName": "Tinh dầu sả chanh nguyên chất",
+      "productCostDefault": "95.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "155"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Tinh dầu tràm gió Huế",
+      "productName": "Tinh dầu tràm gió Huế",
+      "productCostDefault": "140.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "119.000đ",
+      "evaluateAmount": "220"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hạt hạnh nhân rang bơ",
+      "productName": "Hạt hạnh nhân rang bơ",
+      "productCostDefault": "210.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "180"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Hạt dẻ cười Mỹ rang muối",
+      "productName": "Hạt dẻ cười Mỹ rang muối",
+      "productCostDefault": "260.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "234.000đ",
+      "evaluateAmount": "240"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Hạt thông sấy khô nguyên vị",
+      "productName": "Hạt thông sấy khô nguyên vị",
+      "productCostDefault": "320.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nấm tuyết nhĩ khô nấu chè",
+      "productName": "Nấm tuyết nhĩ khô nấu chè",
+      "productCostDefault": "85.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "78.200đ",
+      "evaluateAmount": "104"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Táo tàu đen khô Tân Cương",
+      "productName": "Táo tàu đen khô Tân Cương",
+      "productCostDefault": "110.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "165"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Câu kỷ tử đỏ sạch",
+      "productName": "Câu kỷ tử đỏ sạch",
+      "productCostDefault": "150.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "132.000đ",
+      "evaluateAmount": "142"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Long nhãn Hưng Yên sấy khô",
+      "productName": "Long nhãn Hưng Yên sấy khô",
+      "productCostDefault": "190.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Hạt chia Úc hữu cơ",
+      "productName": "Hạt chia Úc hữu cơ",
+      "productCostDefault": "160.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "144.000đ",
+      "evaluateAmount": "198"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hạt lanh tách dầu hữu cơ",
+      "productName": "Hạt lanh tách dầu hữu cơ",
+      "productCostDefault": "130.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "76"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Gỗ trầm hương cảnh mini để bàn",
+      "productName": "Gỗ trầm hương cảnh mini để bàn",
+      "productCostDefault": "850.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "722.500đ",
+      "evaluateAmount": "48"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nụ hoa trầm hương xông nhà",
+      "productName": "Nụ hoa trầm hương xông nhà",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Tinh dầu sồi thiên nhiên",
+      "productName": "Tinh dầu sồi thiên nhiên",
+      "productCostDefault": "180.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "162.000đ",
+      "evaluateAmount": "51"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nấm linh chi đỏ thái lát",
+      "productName": "Nấm linh chi đỏ thái lát",
+      "productCostDefault": "450.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "125"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mật ong hoa nhãn nguyên chất",
+      "productName": "Mật ong hoa nhãn nguyên chất",
+      "productCostDefault": "220.000đ",
+      "salePercent": "20%",
+      "ProductiSaleCost": "176.000đ",
+      "evaluateAmount": "190"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Măng nứa khô Tây Bắc",
+      "productName": "Măng nứa khô Tây Bắc",
+      "productCostDefault": "170.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Trà sâm tố nữ rừng",
+      "productName": "Trà sâm tố nữ rừng",
+      "productCostDefault": "140.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "126.000đ",
+      "evaluateAmount": "74"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nấm đùi gà sấy giòn tẩm vị",
+      "productName": "Nấm đùi gà sấy giòn tẩm vị",
+      "productCostDefault": "95.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "105"
+    }
+  ]
+}

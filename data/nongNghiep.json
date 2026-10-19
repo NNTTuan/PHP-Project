@@ -1,0 +1,457 @@
+{
+  "categoryName": "Nông nghiệp",
+  "bannerImg": "./img/productionByCatogory2.jpeg",
+  "bannerImgAlt": "Nông nghiệp banner",
+  "products": [
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Thanh long đỏ ruột Bình Thuận",
+      "productName": "Thanh long đỏ ruột Bình Thuận",
+      "productCostDefault": "35.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "31.500đ",
+      "evaluateAmount": "76"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Khoai lang mật Đà Lạt",
+      "productName": "Khoai lang mật Đà Lạt",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "134"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bơ sáp tươi ngon Đắk Lắk",
+      "productName": "Bơ sáp tươi ngon Đắk Lắk",
+      "productCostDefault": "60.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "51.000đ",
+      "evaluateAmount": "205"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Sầu riêng Ri6 chuẩn miền Tây",
+      "productName": "Sầu riêng Ri6 chuẩn miền Tây",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "312"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cam sấy dẻo không đường",
+      "productName": "Cam sấy dẻo không đường",
+      "productCostDefault": "85.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "74.800đ",
+      "evaluateAmount": "62"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hành tỏi Lý Sơn chính hiệu",
+      "productName": "Hành tỏi Lý Sơn chính hiệu",
+      "productCostDefault": "95.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "143"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Chuối Laba Đà Lạt",
+      "productName": "Chuối Laba Đà Lạt",
+      "productCostDefault": "40.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "36.800đ",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Dâu tây New Zealand trồng Đà Lạt",
+      "productName": "Dâu tây New Zealand trồng Đà Lạt",
+      "productCostDefault": "150.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "188"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mít Thái sấy giòn",
+      "productName": "Mít Thái sấy giòn",
+      "productCostDefault": "75.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "67.500đ",
+      "evaluateAmount": "94"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Ổi Phụng Hiệp ruột đỏ",
+      "productName": "Ổi Phụng Hiệp ruột đỏ",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "71"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cà chua bi hữu cơ Đà Lạt",
+      "productName": "Cà chua bi hữu cơ Đà Lạt",
+      "productCostDefault": "55.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "49.500đ",
+      "evaluateAmount": "150"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Dưa lưới hữu cơ ngọt mát",
+      "productName": "Dưa lưới hữu cơ ngọt mát",
+      "productCostDefault": "80.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "120"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Xoài cát chu Cao Lãnh",
+      "productName": "Xoài cát chu Cao Lãnh",
+      "productCostDefault": "65.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "57.200đ",
+      "evaluateAmount": "195"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bưởi da xanh ruột hồng",
+      "productName": "Bưởi da xanh ruột hồng",
+      "productCostDefault": "90.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Nhãn lồng Hưng Yên đặc sản",
+      "productName": "Nhãn lồng Hưng Yên đặc sản",
+      "productCostDefault": "70.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "59.500đ",
+      "evaluateAmount": "135"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Chanh dây vàng ngọt Đài Loan",
+      "productName": "Chanh dây vàng ngọt Đài Loan",
+      "productCostDefault": "75.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Thanh trà ngọt miền Tây",
+      "productName": "Thanh trà ngọt miền Tây",
+      "productCostDefault": "95.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "87.400đ",
+      "evaluateAmount": "64"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mận hậu Sơn La giòn ngọt",
+      "productName": "Mận hậu Sơn La giòn ngọt",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "178"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Vải thiều Lục Ngạn tươi ngon",
+      "productName": "Vải thiều Lục Ngạn tươi ngon",
+      "productCostDefault": "50.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "45.000đ",
+      "evaluateAmount": "240"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Táo xanh Ninh Thuận giòn",
+      "productName": "Táo xanh Ninh Thuận giòn",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "115"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nho đỏ Ninh Thuận không hạt",
+      "productName": "Nho đỏ Ninh Thuận không hạt",
+      "productCostDefault": "85.000đ",
+      "salePercent": "20%",
+      "ProductiSaleCost": "68.000đ",
+      "evaluateAmount": "165"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Sầu riêng Musang King trồng tại VN",
+      "productName": "Sầu riêng Musang King trồng tại VN",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Quýt hồng Lai Vung Đồng Tháp",
+      "productName": "Quýt hồng Lai Vung Đồng Tháp",
+      "productCostDefault": "70.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "63.000đ",
+      "evaluateAmount": "142"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cam sành Hàm Yên Tuyên Quang",
+      "productName": "Cam sành Hàm Yên Tuyên Quang",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "105"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bắp ngọt Mỹ nguyên bẹ",
+      "productName": "Bắp ngọt Mỹ nguyên bẹ",
+      "productCostDefault": "25.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "23.750đ",
+      "evaluateAmount": "80"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Khoai lang tím Đà Lạt",
+      "productName": "Khoai lang tím Đà Lạt",
+      "productCostDefault": "40.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "118"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Củ sen tươi Đồng Tháp",
+      "productName": "Củ sen tươi Đồng Tháp",
+      "productCostDefault": "65.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "57.200đ",
+      "evaluateAmount": "74"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cà rốt hữu cơ Đà Lạt",
+      "productName": "Cà rốt hữu cơ Đà Lạt",
+      "productCostDefault": "38.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "156"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Khoai tây sạch Đức Trọng",
+      "productName": "Khoai tây sạch Đức Trọng",
+      "productCostDefault": "45.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "40.500đ",
+      "evaluateAmount": "130"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hành tây Đà Lạt loại 1",
+      "productName": "Hành tây Đà Lạt loại 1",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "90"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bông cải xanh hữu cơ",
+      "productName": "Bông cải xanh hữu cơ",
+      "productCostDefault": "50.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "42.500đ",
+      "evaluateAmount": "110"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cải bó xôi (rau chân vịt)",
+      "productName": "Cải bó xôi (rau chân vịt)",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "85"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Xà lách thủy canh hữu cơ",
+      "productName": "Xà lách thủy canh hữu cơ",
+      "productCostDefault": "40.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "36.000đ",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Ớt chuông Đà Lạt nhiều màu",
+      "productName": "Ớt chuông Đà Lạt nhiều màu",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Đậu hũ non hữu cơ sạch",
+      "productName": "Đậu hũ non hữu cơ sạch",
+      "productCostDefault": "20.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "19.000đ",
+      "evaluateAmount": "160"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bí ngòi xanh Đà Lạt",
+      "productName": "Bí ngòi xanh Đà Lạt",
+      "productCostDefault": "42.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "72"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bí đỏ hạt đậu mini",
+      "productName": "Bí đỏ hạt đậu mini",
+      "productCostDefault": "35.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "30.800đ",
+      "evaluateAmount": "104"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mướp đắng ( khổ qua ) sạch",
+      "productName": "Mướp đắng (khổ qua) sạch",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "65"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Dưa leo baby giòn ngọt",
+      "productName": "Dưa leo baby giòn ngọt",
+      "productCostDefault": "45.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "40.500đ",
+      "evaluateAmount": "115"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Su hào tươi ngọt Sa Pa",
+      "productName": "Su hào tươi ngọt Sa Pa",
+      "productCostDefault": "28.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "82"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bắp cải trắng Đà Lạt",
+      "productName": "Bắp cải trắng Đà Lạt",
+      "productCostDefault": "32.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "29.440đ",
+      "evaluateAmount": "96"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cần tây nguyên chất bó",
+      "productName": "Cần tây nguyên chất bó",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "125"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Gừng ta sẻ cay nồng",
+      "productName": "Gừng ta sẻ cay nồng",
+      "productCostDefault": "50.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "42.500đ",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Sả cây tươi thơm lừng",
+      "productName": "Sả cây tươi thơm lừng",
+      "productCostDefault": "20.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "140"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nghệ tươi vàng nguyên củ",
+      "productName": "Nghệ tươi vàng nguyên củ",
+      "productCostDefault": "30.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "27.000đ",
+      "evaluateAmount": "75"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Riềng tươi thái lát sạch",
+      "productName": "Riềng tươi thái lát sạch",
+      "productCostDefault": "25.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "54"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Me chua chín bóc vỏ",
+      "productName": "Me chua chín bóc vỏ",
+      "productCostDefault": "55.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "49.500đ",
+      "evaluateAmount": "68"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Khế ngọt tươi miền Tây",
+      "productName": "Khế ngọt tươi miền Tây",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "48"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mã thầy (củ năng) tươi",
+      "productName": "Mã thầy (củ năng) tươi",
+      "productCostDefault": "45.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "42.750đ",
+      "evaluateAmount": "90"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Củ từ dẻo thơm đặc sản",
+      "productName": "Củ từ dẻo thơm đặc sản",
+      "productCostDefault": "40.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "60"
+    }
+  ]
+}

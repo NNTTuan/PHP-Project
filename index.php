@@ -86,7 +86,7 @@ if (file_exists($dataFile)) {
                 <button class="slide-btn next-btn">&#10095;</button>
             </div>
         </section>
-        <div class="productByCategories">
+        <section class="productByCategories">
             <?php if (!empty($data['productByCategories'])): ?>
                 <?php foreach ($data['productByCategories'] as $productByCategory): ?>
                     <?php if ($productByCategory['bannerImg'] != "none"): ?>
@@ -112,11 +112,11 @@ if (file_exists($dataFile)) {
                                             <?php endif ?>
                                             <div class="product-evaluate container">
                                                 <div class="evaluate-stars container">
-                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
                                                 </div>
                                                 <p class="evaluate-amount">(<?php echo htmlspecialchars($product['evaluateAmount']) ?>)</p>
                                             </div>
@@ -159,7 +159,7 @@ if (file_exists($dataFile)) {
                                         </div>
                                     <?php endforeach ?>
                                 <?php endif ?>
-                                <button id="seeMore">Xem thêm sản phẩm</button>
+                                <button id="seeMore" onclick="window.location.href='<?php echo htmlspecialchars($productByCategory['pageHref'])?>'">Xem thêm sản phẩm</button>
                             </div>
                         </div>
                     <?php else: ?>
@@ -169,10 +169,9 @@ if (file_exists($dataFile)) {
             <?php else: ?>
                 <p class="text-slate-400">Chưa có sản phẩm theo danh mục nào được thêm.</p>
             <?php endif; ?>
-        </div>
         </section>
     </main>
-    <footer></footer>
+    <footer><h3>Copyright &copy; 2026 by Nguyen Ngoc Trong Tuan</h3></footer>
     <script src="./js/script.js"></script>
 </body>
 

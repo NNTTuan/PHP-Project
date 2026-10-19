@@ -1,0 +1,457 @@
+{
+  "categoryName": "Thủ công mỹ nghệ",
+  "bannerImg": "./img/productionByCatogory1.jpeg",
+  "bannerImgAlt": "Thủ công mỹ nghệ banner",
+  "products": [
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bình hoa gốm sứ Bát Tràng",
+      "productName": "Bình hoa gốm sứ Bát Tràng",
+      "productCostDefault": "350.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "65"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tranh thêu tay truyền thống",
+      "productName": "Tranh thêu tay truyền thống",
+      "productCostDefault": "850.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "765.000đ",
+      "evaluateAmount": "38"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Giỏ mây tre đan thủ công",
+      "productName": "Giỏ mây tre đan thủ công",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Khăn choàng thổ cẩm dân tộc",
+      "productName": "Khăn choàng thổ cẩm dân tộc",
+      "productCostDefault": "150.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "135.000đ",
+      "evaluateAmount": "114"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Đèn lồng Hội An trang trí",
+      "productName": "Đèn lồng Hội An trang trí",
+      "productCostDefault": "90.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "150"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tượng gỗ điêu khắc mỹ nghệ",
+      "productName": "Tượng gỗ điêu khắc mỹ nghệ",
+      "productCostDefault": "1.200.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "1.080.000đ",
+      "evaluateAmount": "24"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Lược sừng thủ công mỹ nghệ",
+      "productName": "Lược sừng thủ công mỹ nghệ",
+      "productCostDefault": "60.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "51.000đ",
+      "evaluateAmount": "73"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hộp đựng trà khảm trai",
+      "productName": "Hộp đựng trà khảm trai",
+      "productCostDefault": "280.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "41"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Chiếu cói thủ công Nga Sơn",
+      "productName": "Chiếu cói thủ công Nga Sơn",
+      "productCostDefault": "180.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "171.000đ",
+      "evaluateAmount": "89"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Quạt giấy trang trí nghệ thuật",
+      "productName": "Quạt giấy trang trí nghệ thuật",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "50"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Ấm trà gốm Chu Đậu vẽ vàng",
+      "productName": "Ấm trà gốm Chu Đậu vẽ vàng",
+      "productCostDefault": "650.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "572.000đ",
+      "evaluateAmount": "58"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Tranh ghép gáo dừa Ben Tre",
+      "productName": "Tranh ghép gáo dừa Bến Tre",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "34"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Đèn ngủ tre đan nghệ thuật",
+      "productName": "Đèn ngủ tre đan nghệ thuật",
+      "productCostDefault": "220.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "198.000đ",
+      "evaluateAmount": "82"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Túi xách lục bình đan thủ công",
+      "productName": "Túi xách lục bình đan thủ công",
+      "productCostDefault": "190.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "115"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Thảm lục bình trang trí",
+      "productName": "Thảm lục bình trang trí",
+      "productCostDefault": "210.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "178.500đ",
+      "evaluateAmount": "67"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bình trà gỗ dừa chạm khắc",
+      "productName": "Bình trà gỗ dừa chạm khắc",
+      "productCostDefault": "320.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "45"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Tranh xà cừ khảm gỗ hương",
+      "productName": "Tranh xà cừ khảm gỗ hương",
+      "productCostDefault": "1.500.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "1.350.000đ",
+      "evaluateAmount": "29"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Đồng hồ treo tường gỗ mỹ nghệ",
+      "productName": "Đồng hồ treo tường gỗ mỹ nghệ",
+      "productCostDefault": "480.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "94"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Khay trà gỗ trắc chạm hoa văn",
+      "productName": "Khay trà gỗ trắc chạm hoa văn",
+      "productCostDefault": "550.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "506.000đ",
+      "evaluateAmount": "81"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hộp trang sức bọc nhung khảm xà cừ",
+      "productName": "Hộp trang sức bọc nhung khảm xà cừ",
+      "productCostDefault": "260.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "108"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Chóe gốm Bát Tràng đắp nổi",
+      "productName": "Chóe gốm Bát Tràng đắp nổi",
+      "productCostDefault": "420.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "357.000đ",
+      "evaluateAmount": "38"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tượng Phật Di Lặc gỗ mun",
+      "productName": "Tượng Phật Di Lặc gỗ mun",
+      "productCostDefault": "950.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "42"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mô hình thuyền buồm gỗ mỹ nghệ",
+      "productName": "Mô hình thuyền buồm gỗ mỹ nghệ",
+      "productCostDefault": "680.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "612.000đ",
+      "evaluateAmount": "76"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bình hoa gốm Phù Lãng me men rêu",
+      "productName": "Bình hoa gốm Phù Lãng men rêu",
+      "productCostDefault": "310.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "53"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Tranh mài dán vỏ trứng nghệ thuật",
+      "productName": "Tranh sơn mài dán vỏ trứng",
+      "productCostDefault": "780.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "686.400đ",
+      "evaluateAmount": "61"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Túi xách mây đan lót lụa",
+      "productName": "Túi xách mây đan lót lụa",
+      "productCostDefault": "240.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "130"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mẹt tre vẽ tranh dân gian",
+      "productName": "Mẹt tre vẽ tranh dân gian Đông Hồ",
+      "productCostDefault": "110.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "99.000đ",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Đèn bão tre đan trang trí",
+      "productName": "Đèn bão tre đan trang trí",
+      "productCostDefault": "160.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "72"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Khăn thêu tay hoa sen cao cấp",
+      "productName": "Khăn thêu tay hoa sen cao cấp",
+      "productCostDefault": "210.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "178.500đ",
+      "evaluateAmount": "140"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Ví thổ cẩm thêu tay dân tộc H'Mông",
+      "productName": "Ví thổ cẩm thêu tay dân tộc H'Mông",
+      "productCostDefault": "85.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "185"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Vòng tay sừng bọc bạc thủ công",
+      "productName": "Vòng tay sừng bọc bạc thủ công",
+      "productCostDefault": "130.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "117.000đ",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bộ thìa đĩa bằng gáo dừa",
+      "productName": "Bộ thìa đĩa bằng gáo dừa tự nhiên",
+      "productCostDefault": "75.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "160"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Ống cắm bút bằng trúc chạm khắc",
+      "productName": "Ống cắm bút bằng trúc chạm khắc",
+      "productCostDefault": "90.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "82.800đ",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tượng 12 con giáp bằng gốm sứ",
+      "productName": "Bộ tượng 12 con giáp gốm mini",
+      "productCostDefault": "350.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mặt nạ giấy bồi truyền thống",
+      "productName": "Mặt nạ giấy bồi trung thu",
+      "productCostDefault": "50.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "47.500đ",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Đèn kéo quân thủ công bằng giấy",
+      "productName": "Đèn kéo quân thủ công bằng giấy",
+      "productCostDefault": "180.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "64"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Tranh Đông Hồ khung gỗ kính",
+      "productName": "Tranh Đông Hồ khung gỗ kính",
+      "productCostDefault": "220.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "198.000đ",
+      "evaluateAmount": "105"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bình vôi gốm Bát Tràng cổ",
+      "productName": "Bình vôi gốm Bát Tràng giả cổ",
+      "productCostDefault": "290.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "37"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Ấm chén đất nung Bát Tràng",
+      "productName": "Bộ ấm chén đất nung Bát Tràng",
+      "productCostDefault": "250.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "220.000đ",
+      "evaluateAmount": "175"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bình hoa thủy tinh vẽ tay độc bản",
+      "productName": "Bình hoa thủy tinh vẽ tay độc bản",
+      "productCostDefault": "380.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "48"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Đĩa mỹ nghệ chạm đồng Kim Ngân",
+      "productName": "Đĩa mỹ nghệ chạm đồng hoa văn",
+      "productCostDefault": "450.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "405.000đ",
+      "evaluateAmount": "56"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tranh cát nghệ thuật phong cảnh",
+      "productName": "Tranh cát nghệ thuật phong cảnh",
+      "productCostDefault": "320.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "89"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Tượng trâu gốm sứ Bát Tràng",
+      "productName": "Tượng trâu gốm sứ Bát Tràng",
+      "productCostDefault": "190.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "161.500đ",
+      "evaluateAmount": "110"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Chuông gió vỏ hốc biển",
+      "productName": "Chuông gió vỏ ốc biển thủ công",
+      "productCostDefault": "80.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "134"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Móc khóa thổ cẩm mini",
+      "productName": "Móc khóa thổ cẩm mini",
+      "productCostDefault": "25.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "22.500đ",
+      "evaluateAmount": "230"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Hộp đựng khăn giấy gáo dừa",
+      "productName": "Hộp đựng khăn giấy gáo dừa",
+      "productCostDefault": "110.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Gối ôm thổ cẩm trang trí sofa",
+      "productName": "Vỏ gối thổ cẩm trang trí sofa",
+      "productCostDefault": "140.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "128.800đ",
+      "evaluateAmount": "105"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Đĩa gốm trang trí treo tường",
+      "productName": "Đĩa gốm trang trí treo tường",
+      "productCostDefault": "270.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "63"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Khay mây lót đĩa trái cây",
+      "productName": "Khay mây lót đĩa trái cây",
+      "productCostDefault": "130.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "117.000đ",
+      "evaluateAmount": "120"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Lư hương gốm Bát Tràng men rạn",
+      "productName": "Lư hương gốm Bát Tràng men rạn",
+      "productCostDefault": "310.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "85"
+    }
+  ]
+}

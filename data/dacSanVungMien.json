@@ -1,0 +1,457 @@
+{
+  "categoryName": "Đặc sản vùng miền",
+  "bannerImg": "./img/productionByCatogory2.jpeg",
+  "bannerImgAlt": "Đặc sản vùng miền banner",
+  "products": [
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Thịt trâu gác bếp Tây Bắc",
+      "productName": "Thịt trâu gác bếp Tây Bắc",
+      "productCostDefault": "450.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nem chua Thanh Hóa chính gốc",
+      "productName": "Nem chua Thanh Hóa chính gốc",
+      "productCostDefault": "50.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "47.500đ",
+      "evaluateAmount": "230"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh đậu xanh Hải Dương",
+      "productName": "Bánh đậu xanh Hải Dương",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "178"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cốm làng Vòng Hà Nội",
+      "productName": "Cốm làng Vòng Hà Nội",
+      "productCostDefault": "80.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "76.000đ",
+      "evaluateAmount": "89"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Kẹo dừa Bến Tre nguyên vị",
+      "productName": "Kẹo dừa Bến Tre nguyên vị",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "192"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh tráng mè đen Bình Định",
+      "productName": "Bánh tráng mè đen Bình Định",
+      "productCostDefault": "40.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "38.000đ",
+      "evaluateAmount": "111"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh tét Trà Cuôn",
+      "productName": "Bánh tét Trà Cuôn",
+      "productCostDefault": "95.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "80.750đ",
+      "evaluateAmount": "130"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hành chua ngọt Nghệ An",
+      "productName": "Hành chua ngọt Nghệ An",
+      "productCostDefault": "55.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "62"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Chả mực Hạ Long",
+      "productName": "Chả mực Hạ Long",
+      "productCostDefault": "320.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "288.000đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Mắm tép chưng thịt",
+      "productName": "Mắm tép chưng thịt",
+      "productCostDefault": "85.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh pía Sóc Trăng khoai môn",
+      "productName": "Bánh pía Sóc Trăng khoai môn",
+      "productCostDefault": "80.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "72.000đ",
+      "evaluateAmount": "156"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mực ngào ớt đặc sản Đà Nẵng",
+      "productName": "Mực ngào ớt đặc sản Đà Nẵng",
+      "productCostDefault": "75.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "134"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh cáy Thái Bình",
+      "productName": "Bánh cáy Thái Bình",
+      "productCostDefault": "55.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "50.600đ",
+      "evaluateAmount": "72"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cốm làng Vòng tươi gói lá sen",
+      "productName": "Cốm làng Vòng tươi gói lá sen",
+      "productCostDefault": "90.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nem chua Thanh Hóa loại đặc biệt",
+      "productName": "Nem chua Thanh Hóa loại đặc biệt",
+      "productCostDefault": "65.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "57.200đ",
+      "evaluateAmount": "189"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hạt điều rang tỏi ớt Bình Phước",
+      "productName": "Hạt điều rang tỏi ớt Bình Phước",
+      "productCostDefault": "160.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh phồng tôm Năm Căn Cà Mau",
+      "productName": "Bánh phồng tôm Năm Căn Cà Mau",
+      "productCostDefault": "70.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "59.500đ",
+      "evaluateAmount": "240"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Chả bò Đà Nẵng nguyên chất",
+      "productName": "Chả bò Đà Nẵng nguyên chất",
+      "productCostDefault": "340.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "178"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh tráng dừa Bình Định",
+      "productName": "Bánh tráng dừa Bình Định",
+      "productCostDefault": "50.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "45.000đ",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Rượu sim rừng Phú Quốc",
+      "productName": "Rượu sim rừng Phú Quốc",
+      "productCostDefault": "210.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mắm ruốc Huế thơm ngon",
+      "productName": "Mắm ruốc Huế thơm ngon",
+      "productCostDefault": "45.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "42.750đ",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh ít lá gai Bình Định",
+      "productName": "Bánh ít lá gai Bình Định",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "134"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Khô gà lá chanh đậm đà",
+      "productName": "Khô gà lá chanh đậm đà",
+      "productCostDefault": "85.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "76.500đ",
+      "evaluateAmount": "310"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bánh khảo Hải Dương nhân đậu xanh",
+      "productName": "Bánh khảo Hải Dương nhân đậu xanh",
+      "productCostDefault": "38.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "67"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Thịt lợn gác bếp Tây Bắc",
+      "productName": "Thịt lợn gác bếp Tây Bắc",
+      "productCostDefault": "380.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "323.000đ",
+      "evaluateAmount": "150"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Mắm nêm đặc sản Đà Nẵng",
+      "productName": "Mắm nêm đặc sản Đà Nẵng",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "94"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh đậu xanh trái cây (Bánh ngộ)",
+      "productName": "Bánh đậu xanh trái cây Huế",
+      "productCostDefault": "70.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "64.400đ",
+      "evaluateAmount": "82"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cơm cháy chà bông Sài Gòn",
+      "productName": "Cơm cháy chà bông Sài Gòn",
+      "productCostDefault": "65.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "280"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh tráng phơi sương Trảng Bàng",
+      "productName": "Bánh tráng phơi sương Trảng Bàng",
+      "productCostDefault": "45.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "40.500đ",
+      "evaluateAmount": "165"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Hạt sen Huế sấy khô",
+      "productName": "Hạt sen Huế sấy khô",
+      "productCostDefault": "140.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "118"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Rượu mận Sapa",
+      "productName": "Rượu mận Sapa",
+      "productCostDefault": "130.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "114.400đ",
+      "evaluateAmount": "54"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mắm tôm chua Bình Định",
+      "productName": "Mắm tôm chua Bình Định",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "71"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh đậu xanh hoa quả",
+      "productName": "Bánh đậu xanh hoa quả",
+      "productCostDefault": "50.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "45.000đ",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Chả cá Quy Nhơn",
+      "productName": "Chả cá Quy Nhơn",
+      "productCostDefault": "150.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "190"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh quế dừa giòn tan",
+      "productName": "Bánh quế dừa giòn tan",
+      "productCostDefault": "40.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "34.000đ",
+      "evaluateAmount": "120"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Tương hột Nam Đàn Nghệ An",
+      "productName": "Tương hột Nam Đàn Nghệ An",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "65"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mật ong rừng nguyên chất Tây Nguyên",
+      "productName": "Mật ong rừng nguyên chất Tây Nguyên",
+      "productCostDefault": "290.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "261.000đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh tráng nước dừa Tam Quan",
+      "productName": "Bánh tráng nước dừa Tam Quan",
+      "productCostDefault": "55.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "142"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh chưng nương nếp nương",
+      "productName": "Bánh chưng đen Mường Lò",
+      "productCostDefault": "75.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "71.250đ",
+      "evaluateAmount": "89"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Khô cá lóc đồng miền Tây",
+      "productName": "Khô cá lóc đồng miền Tây",
+      "productCostDefault": "220.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "175"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mắm còng Gò Công",
+      "productName": "Mắm còng Gò Công",
+      "productCostDefault": "80.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "70.400đ",
+      "evaluateAmount": "63"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh bèo chén Huế",
+      "productName": "Bánh bèo chén Huế",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "104"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Rượu ngô Bản Phùng",
+      "productName": "Rượu ngô Bản Phùng",
+      "productCostDefault": "110.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "99.000đ",
+      "evaluateAmount": "51"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bánh nổ đặc sản Quảng Ngãi",
+      "productName": "Bánh nổ đặc sản Quảng Ngãi",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "76"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mứt me đà lạt chua ngọt",
+      "productName": "Mứt me đà lạt chua ngọt",
+      "productCostDefault": "60.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "51.000đ",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh thuẫn truyền thống miền Trung",
+      "productName": "Bánh thuẫn truyền thống miền Trung",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "84"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Hạt dổi xếp hạng loại 1",
+      "productName": "Hạt dổi xếp hạng loại 1",
+      "productCostDefault": "400.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "360.000đ",
+      "evaluateAmount": "110"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mắc khén Điện Biên chuẩn vị",
+      "productName": "Mắc khén Điện Biên chuẩn vị",
+      "productCostDefault": "100.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh tráng nướng Phan Thiết",
+      "productName": "Bánh tráng nướng Phan Thiết",
+      "productCostDefault": "50.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "46.000đ",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Khô cá sặc bổi Cà Mau",
+      "productName": "Khô cá sặc bổi Cà Mau",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "130"
+    }
+  ]
+}

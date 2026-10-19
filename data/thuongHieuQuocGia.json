@@ -1,0 +1,457 @@
+{
+  "categoryName": "Thương hiệu quốc gia",
+  "bannerImg": "./img/productionByCatogory1.jpeg",
+  "bannerImgAlt": "Thương hiệu quốc gia banner",
+  "products": [
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Gạo thơm ST25 đặc sản Sóc Trăng",
+      "productName": "Gạo thơm ST25 đặc sản Sóc Trăng",
+      "productCostDefault": "190.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "171.000đ",
+      "evaluateAmount": "350"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Sữa tươi tiệt trùng nguyên chất Vinamilk",
+      "productName": "Sữa tươi tiệt trùng nguyên chất Vinamilk",
+      "productCostDefault": "340.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "512"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bia Sài Gòn Special thùng 24 lon",
+      "productName": "Bia Sài Gòn Special thùng 24 lon",
+      "productCostDefault": "380.000đ",
+      "salePercent": "7%",
+      "ProductiSaleCost": "353.400đ",
+      "evaluateAmount": "430"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Dầu ăn thực vật cao cấp",
+      "productName": "Dầu ăn thực vật cao cấp",
+      "productCostDefault": "55.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "215"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh kẹo cao cấp Hải Hà",
+      "productName": "Bánh kẹo cao cấp Hải Hà",
+      "productCostDefault": "85.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "72.250đ",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mì tôm hảo hạng đóng thùng",
+      "productName": "Mì tôm hảo hạng đóng thùng",
+      "productCostDefault": "115.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "304"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cà phê hòa tan Trung Nguyên",
+      "productName": "Cà phê hòa tan Trung Nguyên",
+      "productCostDefault": "75.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "67.500đ",
+      "evaluateAmount": "245"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Hạt nêm Knorr thịt thăn",
+      "productName": "Hạt nêm Knorr thịt thăn",
+      "productCostDefault": "62.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "180"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nước giặt OMO Matic",
+      "productName": "Nước giặt OMO Matic",
+      "productCostDefault": "165.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "145.200đ",
+      "evaluateAmount": "320"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bánh quy lương khô quân đội",
+      "productName": "Bánh quy lương khô quân đội",
+      "productCostDefault": "55.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "140"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Sữa chua uống thanh trùng TH true MILK",
+      "productName": "Sữa chua uống thanh trùng TH true MILK",
+      "productCostDefault": "280.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "252.000đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Dầu gội Clear sạch gàu mát lạnh",
+      "productName": "Dầu gội Clear sạch gàu mát lạnh",
+      "productCostDefault": "175.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "195"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nước mắm Nam Ngư hương vị cá cơm",
+      "productName": "Nước mắm Nam Ngư hương vị cá cơm",
+      "productCostDefault": "48.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "45.600đ",
+      "evaluateAmount": "410"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bánh quy Kinh Đô AFC",
+      "productName": "Bánh quy Kinh Đô AFC",
+      "productCostDefault": "32.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "165"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Trà xanh không độ chai lớn",
+      "productName": "Trà xanh không độ chai lớn",
+      "productCostDefault": "140.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "128.800đ",
+      "evaluateAmount": "230"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nước tăng lực Red Bull Thái",
+      "productName": "Nước tăng lực Red Bull Thái",
+      "productCostDefault": "250.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "340"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bột giặt Tide trắng sáng",
+      "productName": "Bột giặt Tide trắng sáng",
+      "productCostDefault": "160.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "136.000đ",
+      "evaluateAmount": "120"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Kem đánh răng Colgate Total",
+      "productName": "Kem đánh răng Colgate Total",
+      "productCostDefault": "45.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "285"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Sữa đặc có đường Ông Thọ",
+      "productName": "Sữa đặc có đường Ông Thọ",
+      "productCostDefault": "25.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "22.500đ",
+      "evaluateAmount": "520"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh gạo One One giòn tan",
+      "productName": "Bánh gạo One One giòn tan",
+      "productCostDefault": "30.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "175"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nước tương Maggi đậm đặc",
+      "productName": "Nước tương Maggi đậm đặc",
+      "productCostDefault": "28.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "26.600đ",
+      "evaluateAmount": "310"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Snack khoai tây O'Star",
+      "productName": "Snack khoai tây O'Star",
+      "productCostDefault": "15.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "190"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Sủi cảo / Mì tôm Kokomi đại",
+      "productName": "Mì tôm Kokomi đại thùng 30 gói",
+      "productCostDefault": "95.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "83.600đ",
+      "evaluateAmount": "450"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Xúc xích ăn liền Vissan",
+      "productName": "Xúc xích ăn liền Vissan",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "215"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bia Heineken thùng 24 lon",
+      "productName": "Bia Heineken thùng 24 lon",
+      "productCostDefault": "420.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "386.400đ",
+      "evaluateAmount": "610"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nước khoáng thiên nhiên La Vie",
+      "productName": "Nước khoáng thiên nhiên La Vie",
+      "productCostDefault": "90.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "280"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh quy Cosy",
+      "productName": "Bánh quy Cosy",
+      "productCostDefault": "42.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "37.800đ",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Dầu ăn Neptune Gold",
+      "productName": "Dầu ăn Neptune Gold",
+      "productCostDefault": "58.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "330"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Hạt nêm Aji-No-Moto",
+      "productName": "Hạt nêm Aji-No-Moto",
+      "productCostDefault": "65.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "55.250đ",
+      "evaluateAmount": "400"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bột ngọt Ajinomoto gói lớn",
+      "productName": "Bột ngọt Ajinomoto gói lớn",
+      "productCostDefault": "52.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "380"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mì ly Modern các vị",
+      "productName": "Mì ly Modern các vị",
+      "productCostDefault": "8.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "7.600đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Sữa đậu nành Fami",
+      "productName": "Sữa đậu nành Fami",
+      "productCostDefault": "130.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "290"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Bánh Chocopie Orion",
+      "productName": "Bánh Chocopie Orion",
+      "productCostDefault": "55.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "49.500đ",
+      "evaluateAmount": "512"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Kẹo sữa mềm Chuối/Dâu",
+      "productName": "Kẹo sữa mềm Hải Hà",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Nước giặt Downy kháng khuẩn",
+      "productName": "Nước giặt Downy kháng khuẩn",
+      "productCostDefault": "180.000đ",
+      "salePercent": "20%",
+      "ProductiSaleCost": "144.000đ",
+      "evaluateAmount": "270"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Nước xả vải Comfort",
+      "productName": "Nước xả vải Comfort",
+      "productCostDefault": "115.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "310"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Sữa tươi tiệt trùng Vinamilk 1L",
+      "productName": "Sữa tươi tiệt trùng Vinamilk 1L",
+      "productCostDefault": "32.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "29.440đ",
+      "evaluateAmount": "180"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bánh quy Orion Custas",
+      "productName": "Bánh quy Orion Custas",
+      "productCostDefault": "58.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "240"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cà phê G7 3in1 Trung Nguyên",
+      "productName": "Cà phê G7 3in1 Trung Nguyên",
+      "productCostDefault": "50.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "45.000đ",
+      "evaluateAmount": "480"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Gạo hoa vàng đặc sản",
+      "productName": "Gạo hoa vàng đặc sản",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "115"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Sữa đặc Ngôi Sao Phương Nam",
+      "productName": "Sữa đặc Ngôi Sao Phương Nam",
+      "productCostDefault": "24.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "21.120đ",
+      "evaluateAmount": "390"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Nước ngọt Coca Cola lon",
+      "productName": "Nước ngọt Coca Cola lon",
+      "productCostDefault": "190.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "450"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Nước ngọt Pepsi thùng",
+      "productName": "Nước ngọt Pepsi thùng",
+      "productCostDefault": "185.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "157.250đ",
+      "evaluateAmount": "380"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Bánh gạo Ichi Nhật Bản",
+      "productName": "Bánh gạo Ichi Nhật Bản",
+      "productCostDefault": "33.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "160"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mì khoai tây Omachi sườn hầm ngũ quả",
+      "productName": "Mì khoai tây Omachi sườn hầm ngũ quả",
+      "productCostDefault": "145.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "130.500đ",
+      "evaluateAmount": "510"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Dầu ăn Simply nguyên chất",
+      "productName": "Dầu ăn Simply nguyên chất",
+      "productCostDefault": "62.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "270"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bánh quy bơ Danisa",
+      "productName": "Bánh quy bơ Danisa",
+      "productCostDefault": "180.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "162.000đ",
+      "evaluateAmount": "390"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Xốt mayonnaise Aji-mayo",
+      "productName": "Xốt mayonnaise Aji-mayo",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "125"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Nước mắm Liên Thành",
+      "productName": "Nước mắm Liên Thành",
+      "productCostDefault": "75.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "71.250đ",
+      "evaluateAmount": "195"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Trà Lipton nhãn vàng",
+      "productName": "Trà Lipton nhãn vàng",
+      "productCostDefault": "68.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "220"
+    }
+  ]
+}

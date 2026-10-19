@@ -1,0 +1,457 @@
+{
+  "categoryName": "Ngư nghiệp - Thủy hải sản",
+  "bannerImg": "./img/productionByCatogory3.jpeg",
+  "bannerImgAlt": "Ngư nghiệp - Thủy hải sản banner",
+  "products": [
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mực khô một nắng loại 1",
+      "productName": "Mực khô một nắng loại 1",
+      "productCostDefault": "600.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "167"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tôm khô đặc sản Cà Mau",
+      "productName": "Tôm khô đặc sản Cà Mau",
+      "productCostDefault": "750.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "637.500đ",
+      "evaluateAmount": "210"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cá khô lứa tẩm gia vị",
+      "productName": "Cá khô lứa tẩm gia vị",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Rong biển cháy tỏi giòn rụm",
+      "productName": "Rong biển cháy tỏi giòn rụm",
+      "productCostDefault": "55.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "49.500đ",
+      "evaluateAmount": "135"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cá chỉ vàng khô hút chân không",
+      "productName": "Cá chỉ vàng khô hút chân không",
+      "productCostDefault": "140.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "94"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Chả cá thác lác nguyên chất",
+      "productName": "Chả cá thác lác nguyên chất",
+      "productCostDefault": "180.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "162.000đ",
+      "evaluateAmount": "156"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Khô cá đù một nắng",
+      "productName": "Khô cá đù một nắng",
+      "productCostDefault": "160.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "80"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Tôm tích khô bóc vỏ",
+      "productName": "Tôm tích khô bóc vỏ",
+      "productCostDefault": "450.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "396.000đ",
+      "evaluateAmount": "104"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cá sạm tẩm vị cay ngọt",
+      "productName": "Cá sạm tẩm vị cay ngọt",
+      "productCostDefault": "65.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "55"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Ruốc tôm Quảng Ninh",
+      "productName": "Ruốc tôm Quảng Ninh",
+      "productCostDefault": "250.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "212.500đ",
+      "evaluateAmount": "142"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Mực tẩm gia vị cán mỏng",
+      "productName": "Mực tẩm gia vị cán mỏng",
+      "productCostDefault": "110.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "99.000đ",
+      "evaluateAmount": "120"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cá bóng biển kho tiêu khô",
+      "productName": "Cá bống biển kho tiêu khô",
+      "productCostDefault": "95.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "75"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Tôm khô loại đặc biệt",
+      "productName": "Tôm khô loại đặc biệt",
+      "productCostDefault": "850.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "782.000đ",
+      "evaluateAmount": "180"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cá cơm dẻo tẩm mè",
+      "productName": "Cá cơm dẻo tẩm mè",
+      "productCostDefault": "70.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "92"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Khô cá bớp một nắng",
+      "productName": "Khô cá bớp một nắng",
+      "productCostDefault": "280.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "238.000đ",
+      "evaluateAmount": "64"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Mực ống nhồi thịt cấp đông",
+      "productName": "Mực ống nhồi thịt cấp đông",
+      "productCostDefault": "150.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "110"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Chả mực giã tay Quảng Ninh",
+      "productName": "Chả mực giã tay Quảng Ninh",
+      "productCostDefault": "360.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "324.000đ",
+      "evaluateAmount": "240"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cá thu cắt khúc một nắng",
+      "productName": "Cá thu cắt khúc một nắng",
+      "productCostDefault": "290.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "155"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Hàu sữa lột vỏ cấp đông",
+      "productName": "Hàu sữa lột vỏ cấp đông",
+      "productCostDefault": "90.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "79.200đ",
+      "evaluateAmount": "130"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cá hồi phi lê tươi",
+      "productName": "Cá hồi phi lê tươi",
+      "productCostDefault": "350.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "215"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Bạch tuộc tươi cấp đông",
+      "productName": "Bạch tuộc tươi cấp đông",
+      "productCostDefault": "170.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "153.000đ",
+      "evaluateAmount": "145"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Tôm sú nguyên con cấp đông",
+      "productName": "Tôm sú nguyên con cấp đông",
+      "productCostDefault": "320.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "190"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cua biển thịt chắc Cà Mau",
+      "productName": "Cua biển thịt chắc Cà Mau",
+      "productCostDefault": "450.000đ",
+      "salePercent": "5%",
+      "ProductiSaleCost": "427.500đ",
+      "evaluateAmount": "280"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Ghẹ xanh tươi sống",
+      "productName": "Ghẹ xanh tươi sống",
+      "productCostDefault": "380.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "165"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Ngao biển sạch túi",
+      "productName": "Ngao biển sạch túi",
+      "productCostDefault": "40.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "36.000đ",
+      "evaluateAmount": "95"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Ốc hương biển tươi",
+      "productName": "Ốc hương biển tươi",
+      "productCostDefault": "280.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "112"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Sò huyết nguyên con",
+      "productName": "Sò huyết nguyên con",
+      "productCostDefault": "130.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "110.500đ",
+      "evaluateAmount": "85"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Hàu biển sống nguyên vỏ",
+      "productName": "Hàu biển sống nguyên vỏ",
+      "productCostDefault": "35.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "205"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cá basa phi lê cắt miếng",
+      "productName": "Cá basa phi lê cắt miếng",
+      "productCostDefault": "75.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "67.500đ",
+      "evaluateAmount": "178"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cá nục một nắng",
+      "productName": "Cá nục một nắng",
+      "productCostDefault": "85.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "70"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cá ngừ đại dương cắt lát",
+      "productName": "Cá ngừ đại dương cắt lát",
+      "productCostDefault": "210.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "184.800đ",
+      "evaluateAmount": "140"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cá trích phi lê làm gỏi",
+      "productName": "Cá trích phi lê làm gỏi",
+      "productCostDefault": "120.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "62"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cá kèo tươi sống",
+      "productName": "Cá kèo tươi sống",
+      "productCostDefault": "100.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "90.000đ",
+      "evaluateAmount": "118"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Lươn đồng làm sạch cắt khúc",
+      "productName": "Lươn đồng làm sạch cắt khúc",
+      "productCostDefault": "220.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "150"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Ếch đồng làm sạch cấp đông",
+      "productName": "Ếch đồng làm sạch cấp đông",
+      "productCostDefault": "95.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "87.400đ",
+      "evaluateAmount": "125"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Tôm thẻ chân trắng tươi",
+      "productName": "Tôm thẻ chân trắng tươi",
+      "productCostDefault": "190.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "230"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Mực trứng tươi Phan Thiết",
+      "productName": "Mực trứng tươi Phan Thiết",
+      "productCostDefault": "240.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "204.000đ",
+      "evaluateAmount": "195"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cá khoai tươi nấu canh",
+      "productName": "Cá khoai tươi nấu canh",
+      "productCostDefault": "140.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "54"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cá bống mú tươi sống",
+      "productName": "Cá bống mú tươi sống",
+      "productCostDefault": "320.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "288.000đ",
+      "evaluateAmount": "82"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cá chim trắng biển",
+      "productName": "Cá chim trắng biển",
+      "productCostDefault": "180.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "114"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cá hồng biển tươi",
+      "productName": "Cá hồng biển tươi",
+      "productCostDefault": "160.000đ",
+      "salePercent": "12%",
+      "ProductiSaleCost": "140.800đ",
+      "evaluateAmount": "76"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Cá chìa vôi biển",
+      "productName": "Cá chìa vôi biển",
+      "productCostDefault": "300.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "45"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Tôm hùm baby cấp đông",
+      "productName": "Tôm hùm baby cấp đông",
+      "productCostDefault": "650.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "585.000đ",
+      "evaluateAmount": "160"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Bào ngư tươi Hàn Quốc",
+      "productName": "Bào ngư tươi Hàn Quốc",
+      "productCostDefault": "500.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "98"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Cồi sò điệp nhật",
+      "productName": "Cồi sò điệp nhật",
+      "productCostDefault": "280.000đ",
+      "salePercent": "15%",
+      "ProductiSaleCost": "238.000đ",
+      "evaluateAmount": "135"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Chả cá thác lác rút xương",
+      "productName": "Chả cá thác lác rút xương",
+      "productCostDefault": "190.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "88"
+    },
+    {
+      "productImg": "./img/production1.jpeg",
+      "productImgAlt": "Cá lóc phi lê không xương",
+      "productName": "Cá lóc phi lê không xương",
+      "productCostDefault": "110.000đ",
+      "salePercent": "8%",
+      "ProductiSaleCost": "101.200đ",
+      "evaluateAmount": "142"
+    },
+    {
+      "productImg": "./img/production2.jpeg",
+      "productImgAlt": "Cá rô phi phi lê sạch",
+      "productName": "Cá rô phi phi lê sạch",
+      "productCostDefault": "85.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "105"
+    },
+    {
+      "productImg": "./img/production3.jpeg",
+      "productImgAlt": "Râu mực khổng lồ cắt lát",
+      "productName": "Râu mực khổng lồ cắt lát",
+      "productCostDefault": "150.000đ",
+      "salePercent": "10%",
+      "ProductiSaleCost": "135.000đ",
+      "evaluateAmount": "170"
+    },
+    {
+      "productImg": "./img/production4.jpeg",
+      "productImgAlt": "Sứa biển ăn liền trộn gia vị",
+      "productName": "Sứa biển ăn liền trộn gia vị",
+      "productCostDefault": "60.000đ",
+      "salePercent": "none",
+      "ProductiSaleCost": "none",
+      "evaluateAmount": "90"
+    }
+  ]
+}

@@ -258,12 +258,12 @@ main .category-panel h2 {
   transform: scale(1.15);
 }
 
-.productByCategories .products .productByCategoryBanner {
+.products .productByCategoryBanner {
   height: 200px;
   min-width: 1300px;
 }
 
-.productByCategories .products .product {
+.products .product {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: 1fr 1fr;
@@ -271,7 +271,7 @@ main .category-panel h2 {
   max-width: 1300px;
 }
 
-.productByCategories .products .product .product-card {
+.products .product .product-card {
   height: 400px;
   width: 250px;
   background-color: white;
@@ -279,11 +279,9 @@ main .category-panel h2 {
   border-radius: 10px;
   margin-top: 30px;
   padding: 10px 10px 20px 10px;
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
-.productByCategories .products .product .product-card .product-img {
+.products .product .product-card .product-img {
   height: 200px;
   width: 230px;
   margin-bottom: 20px;
@@ -291,40 +289,35 @@ main .category-panel h2 {
   overflow: hidden;
 }
 
-.productByCategories .products .product .product-card .product-img img {
+.products .product .product-card .product-img img {
   height: 100%;
   width: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
 
-.productByCategories .products .product .product-card .product-img:hover img {
+.products .product .product-card .product-img:hover img {
   transform: scale(1.15);
 }
 
-.productByCategories .products .product .product-card h3 {
+.products .product .product-card h3 {
   margin-bottom: 20px;
 }
 
-.productByCategories .products .product .product-card .saleCost {
+.products .product .product-card .saleCost {
   margin-left: 15px;
 }
 
-.productByCategories
-  .products
-  .product
-  .product-card
-  .saleCost
-  .product-cost-default {
+.products .product .product-card .saleCost .product-cost-default {
   color: rgb(190, 190, 190);
   text-decoration: line-through;
 }
 
-.productByCategories .products .product .product-card .product-cost {
+.products .product .product-card .product-cost {
   font-size: x-large;
 }
 
-.productByCategories .products .product .product-card .saleCost .salePercent {
+.products .product .product-card .saleCost .salePercent {
   background-color: green;
   border-radius: 144px;
   padding: 3px 5px;
@@ -336,31 +329,20 @@ main .category-panel h2 {
   margin-left: 15px;
 }
 
-.productByCategories .products .product .product-card .product-cost {
+.products .product .product-card .product-cost {
   color: green;
 }
 
-.productByCategories
-  .product
-  .product-card
-  .product-evaluate
-  .evaluate-stars
-  .evaluate-star {
+.product .product-card .product-evaluate .evaluate-stars .evaluate-star {
   height: 12px;
   width: 12px;
 }
 
-.productByCategories
-  .products
-  .product
-  .product-card
-  .product-evaluate
-  .evaluate-amount {
+.products .product .product-card .product-evaluate .evaluate-amount {
   font-size: 12px;
 }
 
-.productByCategories
-  .products
+.products
   .product
   .product-card
   .product-evaluate
@@ -369,7 +351,7 @@ main .category-panel h2 {
   margin-right: 5px;
 }
 
-.productByCategories .products .product #seeMore {
+.products .product #seeMore {
   height: 50px;
   width: 200px;
   border: none;
@@ -381,10 +363,16 @@ main .category-panel h2 {
   transition: background-color 0.3s ease;
 }
 
-.productByCategories .products .product #seeMore:hover {
+.products .product #seeMore:hover {
   background-color: #00a300;
 }
 
 footer {
   background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 0;
+  margin-top: 25px;
+  color: #f2f2f2;
 }
