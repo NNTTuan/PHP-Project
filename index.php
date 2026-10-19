@@ -15,7 +15,7 @@ if (file_exists($dataFile)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
-    <title>BUUDIEN.vn clone</title>
+    <title>BUUDIEN.vn clone - Trang chủ</title>
 </head>
 
 <body>
@@ -36,7 +36,7 @@ if (file_exists($dataFile)) {
         </nav>
         <div class="header-page">
             <div class="header-page-top container">
-                <a href="#"><img src="./img/s3_site_logo.jpeg" alt="logo"></a>
+                <a href="#"><img src="./img/icon-logo/s3_site_logo.jpeg" alt="logo"></a>
                 <div class="gigiday">
                     <form method="POST" class="container">
                         <select name="phanLoai" id="phanLoai">
@@ -57,8 +57,8 @@ if (file_exists($dataFile)) {
                     </div>
                 </div>
                 <div class="func container">
-                    <a href="#"><img src="./img/user.png" alt="signin-icon">Đăng nhập</a>
-                    <a href="#"><img src="./img/shopping-cart.png" alt="cart-icon">Giỏ hàng</a>
+                    <a href="#"><img src="./img/icon-logo/user.png" alt="signin-icon">Đăng nhập</a>
+                    <a href="#"><img src="./img/icon-logo/shopping-cart.png" alt="cart-icon">Giỏ hàng</a>
                 </div>
             </div>
 
@@ -67,7 +67,6 @@ if (file_exists($dataFile)) {
     <main>
         <section class="category-panel">
             <h2>Danh mục</h2>
-
             <div class="slider-wrapper-container">
                 <button class="slide-btn prev-btn">&#10094;</button>
                 <div class="category-slider-panel" id="categorySlider">
@@ -87,19 +86,90 @@ if (file_exists($dataFile)) {
                 <button class="slide-btn next-btn">&#10095;</button>
             </div>
         </section>
-        <section class="productions">
-            <?php if (!empty($data['productionByCategories'])): ?>
-                <?php foreach ($data['productionByCategories'] as $productionByCategory): ?>
-                    <?php if ($productionByCategory['title'] == "none"): ?>
-                        <h2><?php echo htmlspecialchars($productionByCategory['title']); ?></h2>
+        <div class="productByCategories">
+            <?php if (!empty($data['productByCategories'])): ?>
+                <?php foreach ($data['productByCategories'] as $productByCategory): ?>
+                    <?php if ($productByCategory['bannerImg'] != "none"): ?>
+                        <div class="products">
+                            <h1 style="color: white; transform: translate(50px, 150px);"><?php echo htmlspecialchars($productByCategory['title']); ?></h1>
+                            <img src="<?php echo htmlspecialchars($productByCategory['bannerImg']); ?>" alt="<?php echo htmlspecialchars($productByCategory['bannerImgAlt']); ?>" class="productByCategoryBanner">
+                            <div class="product">
+                                <?php if (!empty($productByCategory['products'])): ?>
+                                    <?php foreach ($productByCategory['products'] as $product): ?>
+                                        <div class="product-card">
+                                            <div class="product-img">
+                                                <img src="<?php echo htmlspecialchars($product['productImg']) ?>" alt="<?php echo htmlspecialchars($product['productImgAlt']) ?>">
+                                            </div>
+                                            <h3 class="product-name"><?php echo htmlspecialchars($product['productName']); ?></h3>
+                                            <?php if ($product['salePercent'] == "none"): ?>
+                                                <h3 class="product-cost"><?php echo htmlspecialchars($product['productCostDefault']) ?></h3>
+                                            <?php else: ?>
+                                                <div class="saleCost container">
+                                                    <p class="product-cost-default"><?php echo htmlspecialchars($product['productCostDefault']) ?></p>
+                                                    <p class="salePercent"><?php echo htmlspecialchars($product['salePercent']) ?></p>
+                                                </div>
+                                                <h3 class="product-cost"><?php echo htmlspecialchars($product['ProductiSaleCost']) ?></h3>
+                                            <?php endif ?>
+                                            <div class="product-evaluate container">
+                                                <div class="evaluate-stars container">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                </div>
+                                                <p class="evaluate-amount">(<?php echo htmlspecialchars($product['evaluateAmount']) ?>)</p>
+                                            </div>
+                                        </div>
+                                    <?php endforeach ?>
+                                <?php endif ?>
+                                <button id="seeMore">Xem thêm sản phẩm</button>
+                            </div>
+                        </div>
+                    <?php elseif ($productByCategory['bannerImg'] == "none"): ?>
+                        <div class="products">
+                            <h2 style="color: green;"><?php echo htmlspecialchars($productByCategory['title']); ?></h2>
+                            <div class="product">
+                                <?php if (!empty($productByCategory['products'])): ?>
+                                    <?php foreach ($productByCategory['products'] as $product): ?>
+                                        <div class="product-card">
+                                            <div class="product-img">
+                                                <img src="<?php echo htmlspecialchars($product['productImg']) ?>" alt="<?php echo htmlspecialchars($product['productImgAlt']) ?>">
+                                            </div>
+                                            <h3 class="product-name"><?php echo htmlspecialchars($product['productName']); ?></h3>
+                                            <?php if ($product['salePercent'] == "none"): ?>
+                                                <h3 class="product-cost"><?php echo htmlspecialchars($product['productCostDefault']) ?></h3>
+                                            <?php else: ?>
+                                                <div class="saleCost container">
+                                                    <p class="product-cost-default"><?php echo htmlspecialchars($product['productCostDefault']) ?></p>
+                                                    <p class="salePercent"><?php echo htmlspecialchars($product['salePercent']) ?></p>
+                                                </div>
+                                                <h3 class="product-cost"><?php echo htmlspecialchars($product['ProductiSaleCost']) ?></h3>
+                                            <?php endif ?>
+                                            <div class="product-evaluate container">
+                                                <div class="evaluate-stars container">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                    <img src="./img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                                </div>
+                                                <p class="evaluate-amount">(<?php echo htmlspecialchars($product['evaluateAmount']) ?>)</p>
+                                            </div>
+                                        </div>
+                                    <?php endforeach ?>
+                                <?php endif ?>
+                                <button id="seeMore">Xem thêm sản phẩm</button>
+                            </div>
+                        </div>
                     <?php else: ?>
-                        <h2><?php echo htmlspecialchars($productionByCategory['title']); ?></h2>
-                        <img src="<?php echo htmlspecialchars($category['bannerImg']); ?>" alt="<?php echo htmlspecialchars($category['bannerImgAlt']); ?>">
+                        <p class="text-slate-400">Lỗi hiển thị</p>
                     <?php endif ?>
                 <?php endforeach; ?>
             <?php else: ?>
                 <p class="text-slate-400">Chưa có sản phẩm theo danh mục nào được thêm.</p>
             <?php endif; ?>
+        </div>
         </section>
     </main>
     <footer></footer>
