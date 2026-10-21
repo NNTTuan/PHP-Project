@@ -243,9 +243,10 @@ main .category-panel h2 {
   transition: transform 0.5s ease;
 }
 
-.category-panel .category-slider-panel .category-card p {
+.category-panel .category-slider-panel .category-card a {
   position: relative;
   z-index: 1;
+  text-decoration: none;
   color: #fff;
   font-weight: bold;
   font-size: 16px;
@@ -351,7 +352,7 @@ main .category-panel h2 {
   margin-right: 5px;
 }
 
-.products .product #seeMore {
+.products #seeMore {
   height: 50px;
   width: 200px;
   border: none;
@@ -363,7 +364,8 @@ main .category-panel h2 {
   transition: background-color 0.3s ease;
 }
 
-.products .product #seeMore:hover {
+.products #seeMore:hover {
+  cursor: pointer;
   background-color: #00a300;
 }
 

@@ -15,7 +15,7 @@ if (file_exists($dataFile)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
-    <title>BUUDIEN.vn clone - Top bán chạy</title>
+    <title>BUUDIEN.vn clone - <?php echo htmlspecialchars($data['categoryName'])?></title>
 </head>
 
 <body>
@@ -65,7 +65,7 @@ if (file_exists($dataFile)) {
         </div>
     </header>
     <main>
-        <h1 style="color: green; margin:15px 0;">Tất cả sản phẩm</h1>
+        <h1 style="color: green; margin:15px 0;"><?php echo htmlspecialchars($data['categoryName'])?></h1>
         <div class="products">
             <div class="product">
                 <?php if (!empty($data['allProducts'])): ?>

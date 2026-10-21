@@ -15,7 +15,7 @@ if (file_exists($dataFile)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
-    <title>BUUDIEN.vn clone - Top bán chạy</title>
+    <title>BUUDIEN.vn clone - <?php echo htmlspecialchars($data['categoryName']) ?></title>
 </head>
 
 <body>
@@ -65,43 +65,46 @@ if (file_exists($dataFile)) {
         </div>
     </header>
     <main>
-        <h1 style="color: green; margin:15px 0;">Top các sản phẩm bán chạy</h1>
+        <p style="margin: 5px 0 10px 0"><a href="../index.php" style="text-diraction: none;">Trang chủ</a> > <i ></i> <?php echo htmlspecialchars($data['categoryName']) ?></h1>
         <div class="products">
-            <div class="product">
-                <?php if (!empty($data['topBestSellers'])): ?>
-                    <?php foreach ($data['topBestSellers'] as $topBestSeller): ?>
-                        <div class="product-card">
-                            <div class="product-img">
-                                <img src="<?php echo htmlspecialchars($topBestSeller['productImg']) ?>" alt="<?php echo htmlspecialchars($topBestSeller['productImgAlt']) ?>">
-                            </div>
-                            <h3 class="product-name"><?php echo htmlspecialchars($topBestSeller['productName']); ?></h3>
-                            <?php if ($topBestSeller['salePercent'] == "none"): ?>
-                                <h3 class="product-cost"><?php echo htmlspecialchars($topBestSeller['productCostDefault']) ?></h3>
-                            <?php else: ?>
-                                <div class="saleCost container">
-                                    <p class="product-cost-default"><?php echo htmlspecialchars($topBestSeller['productCostDefault']) ?></p>
-                                    <p class="salePercent"><?php echo htmlspecialchars($topBestSeller['salePercent']) ?></p>
+            </p>
+            <h1 style="color: green; margin:15px 0;"><?php echo htmlspecialchars($data['categoryName']) ?></h1>
+            <div class="products">
+                <div class="product">
+                    <?php if (!empty($data['topBestSellers'])): ?>
+                        <?php foreach ($data['topBestSellers'] as $topBestSeller): ?>
+                            <div class="product-card">
+                                <div class="product-img">
+                                    <img src="<?php echo htmlspecialchars($topBestSeller['productImg']) ?>" alt="<?php echo htmlspecialchars($topBestSeller['productImgAlt']) ?>">
                                 </div>
-                                <h3 class="product-cost"><?php echo htmlspecialchars($topBestSeller['ProductiSaleCost']) ?></h3>
-                            <?php endif ?>
-                            <div class="product-evaluate container">
-                                <div class="evaluate-stars container">
-                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
-                                    <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                <h3 class="product-name"><?php echo htmlspecialchars($topBestSeller['productName']); ?></h3>
+                                <?php if ($topBestSeller['salePercent'] == "none"): ?>
+                                    <h3 class="product-cost"><?php echo htmlspecialchars($topBestSeller['productCostDefault']) ?></h3>
+                                <?php else: ?>
+                                    <div class="saleCost container">
+                                        <p class="product-cost-default"><?php echo htmlspecialchars($topBestSeller['productCostDefault']) ?></p>
+                                        <p class="salePercent"><?php echo htmlspecialchars($topBestSeller['salePercent']) ?></p>
+                                    </div>
+                                    <h3 class="product-cost"><?php echo htmlspecialchars($topBestSeller['ProductiSaleCost']) ?></h3>
+                                <?php endif ?>
+                                <div class="product-evaluate container">
+                                    <div class="evaluate-stars container">
+                                        <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                        <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                        <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                        <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                        <img src="../img/icon-logo/star.png" alt="evaluate-star" class="evaluate-star">
+                                    </div>
+                                    <p class="evaluate-amount">(<?php echo htmlspecialchars($topBestSeller['evaluateAmount']) ?>)</p>
                                 </div>
-                                <p class="evaluate-amount">(<?php echo htmlspecialchars($topBestSeller['evaluateAmount']) ?>)</p>
                             </div>
-                        </div>
-                    <?php endforeach ?>
-                <?php else: ?>
+                        <?php endforeach ?>
+                    <?php else: ?>
                         <p class="text-slate-400">Chưa có sản phẩm theo danh mục nào được thêm./ Lỗi hiển thị.</p>
-                <?php endif ?>
-                <button id="seeMore" onclick="window.location.href='#'">Xem thêm sản phẩm</button>
+                    <?php endif ?>
+                    <button id="seeMore" onclick="window.location.href='#'">Xem thêm sản phẩm</button>
+                </div>
             </div>
-        </div>
     </main>
     <footer></footer>
 </body>

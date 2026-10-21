@@ -4,49 +4,64 @@
       "title": "Tất cả sản phẩm",
       "imgSrc": "./img/categories/category1.png",
       "imgAlt": "category1",
-      "pageHref": "./pages/tatCaSanPham.php"
+      "pageHref": "./pages/tatCaSanPham.php",
+      "dataSrc":"../data/tatCaSanPhamDemo.json"
+    },
+    {
+      "title": "Top bán chạy",
+      "imgSrc": "./img/categories/category1.png",
+      "imgAlt": "category1",
+      "pageHref": "./pages/topBanChay.php",
+      "dataSrc":"../data/topBanChay.json"
     },
     {
       "title": "Sản phẩm OCOP",
       "imgSrc": "./img/categories/category2.png",
       "imgAlt": "category2",
-      "pageHref": "./pages/sanPhamOCOP.php"
+      "pageHref": "./pages/sanPhamOCOP.php",
+      "dataSrc":"../data/sanPhamOCOP.json"
     },
     {
       "title": "Thương hiệu quốc gia",
       "imgSrc": "./img/categories/category3.jpeg",
       "imgAlt": "category3",
-      "pageHref": "./pages/thuongHieuQuocGia.php"
+      "pageHref": "./pages/thuongHieuQuocGia.php",
+      "dataSrc":"../data/thuongHieuQuocGia.json"
     },
     {
       "title": "Đặc sản vùng miền",
       "imgSrc": "./img/categories/category4.jpeg",
       "imgAlt": "category4",
-      "pageHref": "./pages/dacSanVungMien.php"
+      "pageHref": "./pages/dacSanVungMien.php",
+      "dataSrc":"../data/dacSanVungMien.json"
     },
     {
       "title": "Nông nghiệp",
       "imgSrc": "./img/categories/category5.jpeg",
       "imgAlt": "category5",
-      "pageHref": "./pages/nongNghiep.php"
+      "pageHref": "./pages/nongNghiep.php",
+      "dataSrc":"../data/nongNghiep.json"
     },
     {
       "title": "Ngư nghiệp - Thủy hải sản",
       "imgSrc": "./img/categories/category6.jpeg",
       "imgAlt": "category6",
-      "pageHref": "./pages/nguNgiep.php"
+      "pageHref": "./pages/nguNghiep.php",
+      "dataSrc":"../data/nguNghiep.json"
     },
     {
       "title": "Lâm nghiệp",
       "imgSrc": "./img/categories/category7.jpeg",
       "imgAlt": "category7",
-      "pageHref": "./pages/lamNghiep.php"
+      "pageHref": "./pages/lamNghiep.php",
+      "dataSrc":"../data/lamNghiep.json"
     },
     {
       "title": "Thủ công mỹ nghệ",
       "imgSrc": "./img/categories/category8.jpeg",
       "imgAlt": "category8",
-      "pageHref": "./pages/thuCongMyNghe.php"
+      "pageHref": "./pages/thuCongMyNghe.php",
+      "dataSrc":"../data/thuCongMyNghe.json"
     }
   ],
   "productByCategories": [
@@ -250,7 +265,7 @@
       "title": "Thương hiệu quốc gia",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory1.jpeg",
       "bannerImgAlt": "Thương hiệu quốc gia banner",
-      "pageHref": "",
+      "pageHref": "./pages/thuongHieuQuocGia.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production1.jpeg",
@@ -348,7 +363,7 @@
       "title": "Đặc sản vùng miền",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory2.jpeg",
       "bannerImgAlt": "Đặc sản vùng miền banner",
-      "pageHref": "",
+      "pageHref": "./pages/dacSanVungMien.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production3.jpeg",
@@ -446,7 +461,7 @@
       "title": "Nông nghiệp",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory2.jpeg",
       "bannerImgAlt": "Nông nghiệp banner",
-      "pageHref": "",
+      "pageHref": "./pages/nongNghiep.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production1.jpeg",
@@ -544,7 +559,7 @@
       "title": "Ngư nghiệp - Thủy hải sản",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory3.jpeg",
       "bannerImgAlt": "Ngư nghiệp - Thủy hải sản banner",
-      "pageHref": "",
+      "pageHref": "./pages/nguNghiep.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production3.jpeg",
@@ -642,7 +657,7 @@
       "title": "Lâm nghiệp",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory4.jpeg",
       "bannerImgAlt": "Lâm nghiệp banner",
-      "pageHref": "",
+      "pageHref": "./pages/lamNghiep.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production1.jpeg",
@@ -740,7 +755,7 @@
       "title": "Thủ công mỹ nghệ",
       "bannerImg": "./img/productionByCatogories/productionByCatogoryBanner/productionByCatogory1.jpeg",
       "bannerImgAlt": "Thủ công mỹ nghệ banner",
-      "pageHref": "",
+      "pageHref": "./pages/thuCongMyNghe.php",
       "products": [
         {
           "productImg": "./img/productionByCatogories/product/production3.jpeg",

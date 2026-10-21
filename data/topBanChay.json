@@ -1,4 +1,7 @@
 {
+  "categoryName": "Top bán chạy",
+  "bannerImg": "none",
+  "bannerImgAlt": "none",
   "topBestSellers": [
     {
       "productImg": "../img/productionByCatogories/product/Top bán chạy/production1.jpeg",

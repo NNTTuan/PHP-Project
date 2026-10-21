@@ -1,4 +1,7 @@
 {
+  "categoryName": "Tất cả sản phẩm",
+  "bannerImg": "none",
+  "bannerImgAlt": "none",
   "allProducts": [
     {
       "productImg": "./img/production1.jpeg",
